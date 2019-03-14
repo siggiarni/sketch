@@ -16,11 +16,11 @@
   "fixedRadius": 0,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 237,
-    "width": 237,
-    "x": 108,
-    "y": 108
+    "constrainProportions": false,
+    "height": 393,
+    "width": 105,
+    "x": 174,
+    "y": 26
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
